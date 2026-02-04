@@ -36,7 +36,7 @@ ENV/
 Thumbs.db
 
 # Large files and datasets
-# dataset/
+dataset/
 *.pth
 *.h5
 *.hdf5
